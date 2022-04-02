@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spisok">
+        <item>3 yil</item>
+        <item>13 yil</item>
+        <item>32 yil</item>
+        <item>65 yil</item>
+        <item>23 yil</item>
+        <item>78 yil</item>
+        <item>45 yil</item>
+        <item>51 yil</item>
+        <item>43 yil</item>
+        <item>12 yil</item>
+        <item>90 yil</item>
+        <item>15 yil</item>
+        <item>34 yil</item>
+        <item>76 yil</item>
+        <item>66 yil</item>
+        <item>57 yil</item>
+        <item>1 kun</item>
+        <item>46 kun</item>
+        <item>12 kun</item>
+        <item>5 kun</item>
+        <item>11 oy</item>
+        <item>5 oy</item>
+        <item>7 oy</item>
+        <item>77 yil</item>
+        <item>100 yil</item>
+        <item>2 yil</item>
+        <item>7 yil</item>
+        <item>77 kun</item>
+        <item>14 kun</item>
+        <item>10 oy</item>
+        <item>9 oy</item>
+        <item>3 oy</item>
+        <item>4 xafta</item>
+        <item>8 xafta</item>
+        <item>2 xafta</item>
+        <item>11 xafta</item>
+        <item>1 xafta</item>
+        <item>6 xafta</item>
+    </string-array>
+</resources>
